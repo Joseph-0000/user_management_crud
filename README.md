@@ -13,3 +13,9 @@ To Setup:
 -Update db_connection.php with your DB Credentials.
 
 -Run local server "php -S localhost:8000".
+
+Admin User:
+
+Email: admin@gmail.com
+
+Password: 12345678
